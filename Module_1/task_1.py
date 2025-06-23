@@ -1,8 +1,0 @@
-a=input("Enter First number: ")
-a=float(a)
-b=input("Enter Second number: ")
-b=float(b)
-print("\nAddition: ",a+b)
-print("Subtraction: ",a-b)
-print("Multiplication: ",a*b)
-print("Division: ",a/b)
